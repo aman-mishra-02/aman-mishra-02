@@ -18,13 +18,15 @@
 
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
-<br>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 </div>
 </div>
 
-- 📫 How to reach me **amthgr0209@gmail.com**
-- 📩 Alternate **amanmishra021002@gmail.com**
+<p align="center">
+         - 📫 How to reach me **amthgr0209@gmail.com**
+         <br>
+         - 📩 Alternate **amanmishra021002@gmail.com**
+</p>
 <br><br>
 <hr>
 
