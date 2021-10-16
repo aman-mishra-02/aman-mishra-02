@@ -11,6 +11,7 @@
 </a>
 
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
+
 <div>
 <div align="center">
 <img width="50%" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/>
@@ -39,21 +40,21 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.geeksforgeeks.org/c/" ><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="./icons/cpp.png" width="40px"/> </a>
+    <a href="https://www.geeksforgeeks.org/c/" ><img src="./icons/c.png" width="50px"/></a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.png" width="40px"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" width="40px"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./icons/html.png" width="40px"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./icons/css.png" width="40px"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.png" width="40px""/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="./icons/node.png" width="40px"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongodb.png" width="40px" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-     <a herf="https://github.com">    <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" width="40px"/> </a>
+     <a herf="https://github.com">    <img src="./icons/github.png" width="50px"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="./icons/expressjs.png" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="./icons/npm.png" alt="express" width="40" height="40"/> </a>
 </p>
-
 
 <!---
 aman-mishra-02/aman-mishra-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
