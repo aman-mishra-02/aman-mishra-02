@@ -22,8 +22,10 @@
 </div>
 </div>
 
-- 📫 How to reach me **amthgr0209@gmail.com**
-- 📩 Alternate **amanmishra021002@gmail.com**
+<p align="center">
+         - 📫 How to reach me **amthgr0209@gmail.com**
+         - 📩 Alternate **amanmishra021002@gmail.com**
+</p>
 <br><br>
 <hr>
 
