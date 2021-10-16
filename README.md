@@ -3,7 +3,8 @@
          height="45"
          width="45" />, I'm Aman Mishra</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Mechanical Engineering, from Sardar Vallabhbhai National Institute of Technology. I am a Fullstack Web Developer.
+         I am a Fullstack Web Developer.
+         I’m pursuing a Bachelors’s in Mechanical Engineering, from Sardar Vallabhbhai National Institute of Technology.
 <h5>
          
 <a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3">
