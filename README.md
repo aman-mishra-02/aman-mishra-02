@@ -6,7 +6,7 @@
          I am a Fullstack Web Developer.
          I’m pursuing a Bachelors’s in Mechanical Engineering, from Sardar Vallabhbhai National Institute of Technology.
 <h5>
-         
+      <hr>   
 <a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3">
 </a>
 
