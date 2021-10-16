@@ -24,6 +24,7 @@
 
 <p align="center">
          - 📫 How to reach me **amthgr0209@gmail.com**
+         <br>
          - 📩 Alternate **amanmishra021002@gmail.com**
 </p>
 <br><br>
