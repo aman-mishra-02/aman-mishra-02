@@ -12,14 +12,20 @@
 
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<div>
+
 <div align="center">
 <img width="50%" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
+</div>
+         <br>
+         <br>
+         
 <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
 </div>
+         
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=tokyonight&hide_border=true&fire=f8961e&currStreakNum=f8961e&currStreakLabel=f8961e&sideNums=f8961e">
 </div>
 
 # 📧 How to reach me
