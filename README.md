@@ -12,16 +12,15 @@
 
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-<div align="center">
+<div>
+<div align="right">
 <img width="50%" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </div>
-         <br>
-         <br>
          
-<div>
+<div align="left">
 <a><img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="455" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" width="380" ></a>
+</div>
 </div>
          
 <!-- <div align="center">
