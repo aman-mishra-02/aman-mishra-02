@@ -13,15 +13,10 @@
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<!--      <p>
-<a align= "center" href="https://github.com/ishikkkkaaaa">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ishikkkkaaaa&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
-</p>     -->
 <p>
          <a align= "center" href="https://github.com/aman-mishra-02">
 <img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"  width="400" >
-<img  align="right" width="500" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/><a>
+<img  align="right" height="300" width="400" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/><a>
 </p>
      
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="350"  ></a>
