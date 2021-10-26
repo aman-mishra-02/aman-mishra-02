@@ -13,13 +13,18 @@
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<p>
-         <a align= "center" href="https://github.com/aman-mishra-02">
-<img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"  width="400" >
-<img  align="right" height="300" width="400" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/><a>
-</p>
-     
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" height="200px" width="350"  ></a>
+
+<div align="center">
+<img width="50%" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+</div>
+         <br>
+         <br>
+
+<div align="center">
+<a><img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" height="200" ></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" width="340" height="200" ></a>
+</div>
 
          
 <!-- <div align="center">
