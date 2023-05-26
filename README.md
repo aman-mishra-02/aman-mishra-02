@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Aman Mishra</h1>
