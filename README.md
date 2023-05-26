@@ -1,7 +1,4 @@
-<h1 align="center">Hi <img src="https://tenor.com/view/waving-hand-joypixels-hi-hello-hey-there-gif-17554626" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Aman Mishra</h1>
+<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
 <h5 align="center">
          I am a Fullstack Web Developer.
          I’m pursuing a Bachelor’s from Sardar Vallabhbhai National Institute of Technology.
