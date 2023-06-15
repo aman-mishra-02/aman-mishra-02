@@ -33,7 +33,7 @@
 
 ## 🏆 Github Status
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=tokyonight" width="45%" >
 </div>
