@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&text=Hello%2C%20World%21&fontSize=30&fontColor=f5cac3&animation=twinkling&fontAlignY=30&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5cac3&height=120&text=Hello%2C%20World%21&fontSize=30&fontColor=fafafa&animation=twinkling&fontAlignY=30&section=header"/>
 
 <h1 align="center"> I'm Aman Mishra</h1>
 <!-- <h1 align="center">Hi 👋, I'm Aman Mishra</h1> -->
