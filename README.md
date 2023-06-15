@@ -42,10 +42,11 @@
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=synthwave&langs_count=6" width="45%" align="center" >
-         <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=VianaSamuel&theme=synthwave&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=synthwave&langs_count=6" width="45%" align="center" >         
 </div>
 <br>  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-mishra-02&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📧 How to reach me
          
