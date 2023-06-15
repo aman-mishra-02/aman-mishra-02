@@ -43,6 +43,7 @@
 </br>
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=synthwave&langs_count=6" width="45%" align="center" >
+         <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=VianaSamuel&theme=synthwave&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
 </div>
 <br>  
 
