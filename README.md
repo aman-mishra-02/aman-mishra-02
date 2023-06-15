@@ -18,7 +18,19 @@
          <br>
          <br>
 
+## 🏆 Github Status
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&hide_border=true&theme=tokyonight" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?username=aman-mishra-02&theme=tokyonight" width="45%" >
+</div>
+</br>
 <div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="45%" align="center" >
+</div>
+<br>
+
+<!-- <div align="center">
 <a><img src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" height="200" ></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&hide_border=true" width="340" height="200" ></a>
 </div>
