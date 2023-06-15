@@ -38,7 +38,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/AmanMishra0210" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="AmanMishra0210" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/[AmanMishra020](https://twitter.com/AmanMishra020)" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="AmanMishra0210" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100039521574333" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/facebook.png" alt="AmanMishra0210" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/aman_mishra_0210" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="aman_mishra_0210" height="50" width="50" /></a>
 </p>
