@@ -26,7 +26,7 @@
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" width="45%" align="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=tokyonight&hide_border=true&fire=f8961e&currStreakNum=f8961e&currStreakLabel=f8961e&sideNums=f8961e">
 </div>
 <br>
 
@@ -36,7 +36,7 @@
 </div>
 
          
-<!-- <div align="center">
+ <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=tokyonight&hide_border=true&fire=f8961e&currStreakNum=f8961e&currStreakLabel=f8961e&sideNums=f8961e">
 </div>  (Maybe Later) -->    
 
