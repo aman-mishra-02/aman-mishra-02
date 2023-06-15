@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aman Mishra</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&text=Hello%2C%20World%21&fontSize=30&fontColor=f5cac3&animation=twinkling&fontAlignY=30&section=header"/>
+
+<h1 align="center"> I'm Aman Mishra</h1>
+<!-- <h1 align="center">Hi 👋, I'm Aman Mishra</h1> -->
 <h5 align="center">
          I am a Fullstack Web Developer.
          I’m pursuing a Bachelor’s from Sardar Vallabhbhai National Institute of Technology.
@@ -78,6 +81,8 @@
     <a href="https://expressjs.com" target="_blank"> <img src="./icons/expressjs.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="./icons/npm.png" alt="express" width="40" height="40"/> </a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5cac3&height=120&section=footer"/>
 
 <!---
 aman-mishra-02/aman-mishra-02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
