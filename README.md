@@ -7,12 +7,10 @@
          I’m pursuing a Bachelor’s from Sardar Vallabhbhai National Institute of Technology.
 <h5>
       <hr>   
-<a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3">
+<a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=1ed760">
 </a>
 
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
 
 <div align="center">
 <img width="50%" height="auto" src="https://miro.medium.com/max/1020/0*7Q3yvSIv_t0ioJ-Z.gif"/>
@@ -35,25 +33,27 @@
 <br> -->
 
 ## 🏆 Github Status
-<div>
-<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=tokyonight" width="45%" >
+<div>
+<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=blue-green" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=blue-green" width="45%" >
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=synthwave&langs_count=6" width="45%" align="center" >         
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=blue-green&langs_count=6" width="45%" align="center" >         
 </div>
-<br>  
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-mishra-02&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 📧 How to reach me
-         
+
 - 📫 Main **amthgr0209@gmail.com**
 - 📩 Alternate **amanmishra021002@gmail.com**
-         
+
 <br><br>
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
