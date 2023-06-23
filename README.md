@@ -35,13 +35,13 @@
 ## 🏆 Github Status
 
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=blue-green" width="45%" align="right" >
+<img  src="https://github-readme-stats-aman-mishra-02.vercel.app/api?username=aman-mishra-02&show_icons=true&theme=blue-green" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aman-mishra-02&theme=blue-green" width="45%" >
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=blue-green&langs_count=6" width="45%" align="center" >         
+<img  src="https://github-readme-stats-aman-mishra-02.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=blue-green&langs_count=6" width="45%" align="center" >         
 </div>
 <br>
 
