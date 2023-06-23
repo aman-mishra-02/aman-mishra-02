@@ -41,7 +41,7 @@
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=blue-green&langs_count=6" width="45%" align="center" >         
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=donut&theme=blue-green&langs_count=6" width="45%" align="center" >         
 </div>
 <br>
 
