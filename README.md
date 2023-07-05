@@ -64,24 +64,53 @@
 </p>
 
 <hr>
-         
+
 ## 🚀 Languages and Tools:
 
+### Machine Learning:
+
 <p align="center"> 
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="./icons/cpp.png" width="40px"/> </a>
-    <a href="https://www.geeksforgeeks.org/c/" ><img src="./icons/c.png" width="50px"/></a>
+<a href="https://jupyter.org/" target="_blank"> <img src="./icons/Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> </a>
+<a href="https://colab.google/" target="_blank"> <img src="./icons/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="./icons/Python.svg.png" alt="Python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="./icons/pandas.png" alt="Pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank"> <img src="./icons/numpy.png" alt="Numpy" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank"> <img src="./icons/Created_with_Matplotlib-logo.svg.png" alt="Matplotlib" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank"> <img src="./icons/Scikit_learn.png" alt="Scikit Learn" width="60" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="./icons/Tensorflow.png" alt="Tensorflow" width="40" height="40"/> </a>
+<a href="https://xgboost.readthedocs.io/en/stable/" target="_blank"> <img src="./icons/XGBoost.png" alt="XGBoost" width="60" height="40"/> </a>
+</p>
+
+### Database Management system:
+
+<p align="center"> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="60" height="40"/> </a>
+    <a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongodb.png" width="40px" alt="mongodb" width="48" height="48"/> </a> 
+</p>
+
+### Web Dev:
+
+<p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.png" width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./icons/html.png" width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./icons/css.png" width="40px"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.png" width="40px""/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="./icons/node.png" width="40px"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongodb.png" width="40px" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" width="40px"/> </a>
-     <a herf="https://github.com">    <img src="./icons/github.png" width="50px"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="./icons/node.png" width="40px"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="./icons/expressjs.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="./icons/npm.png" alt="express" width="40" height="40"/> </a>
+</p>
+
+### Others:
+
+<p align="center"> 
+    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="./icons/cpp.png" width="40px"/> </a>
+    <a href="https://www.geeksforgeeks.org/c/" ><img src="./icons/c.png" width="50px"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" width="40px"/> </a>
+    <a herf="https://github.com"><img src="./icons/github.png" alt="github" width="50px"/> </a>
+    <a href="https://www.tableau.com/" target="_blank"> <img src="./icons/Tableau.png" alt="Tableau" width="70" height="40"/> </a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&section=footer"/>
