@@ -70,7 +70,7 @@
 ### Machine Learning:
 
 <p align="center"> 
-<a href="https://jupyter.org/" target="_blank"> <img src="./icons/Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> </a>
+<a href="https://jupyter.org/"> <img src="./icons/Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/> </a>
 <a href="https://colab.google/" target="_blank"> <img src="./icons/colab_favicon_256px.png" alt="colab" width="40" height="40"/> </a>
 <a href="https://www.python.org/" target="_blank"> <img src="./icons/Python.svg.png" alt="Python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="./icons/pandas.png" alt="Pandas" width="40" height="40"/> </a>
@@ -92,7 +92,7 @@
 ### Web Dev:
 
 <p align="center"> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.png" width="40px"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.png"alt='react' width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./icons/html.png" width="40px"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./icons/css.png" width="40px"/> </a> 
