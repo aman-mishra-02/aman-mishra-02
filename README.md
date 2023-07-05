@@ -93,22 +93,22 @@
 
 <p align="center"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="./icons/react.png"alt='react' width="40px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" width="40px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./icons/html.png" width="40px"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./icons/css.png" width="40px"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.png" width="40px""/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="./icons/node.png" width="40px"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="./icons/javascript.png" alt="javascript" width="40px"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="./icons/html.png" alt="html" width="40px"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="./icons/css.png" alt="css" width="40px"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.png" alt="bootstrap" width="40px"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="./icons/node.png" alt="nodejs" width="40px"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="./icons/expressjs.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.npmjs.com/" target="_blank"> <img src="./icons/npm.png" alt="express" width="40" height="40"/> </a>
+    <a href="https://www.npmjs.com/" target="_blank"> <img src="./icons/npm.png" alt="npm" width="40" height="40"/> </a>
 </p>
 
 ### Others:
 
 <p align="center"> 
-    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="./icons/cpp.png" width="40px"/> </a>
-    <a href="https://www.geeksforgeeks.org/c/" ><img src="./icons/c.png" width="50px"/></a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" width="40px"/> </a>
+    <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank"> <img src="./icons/cpp.png" alt="c++" width="40px"/> </a>
+    <a href="https://www.geeksforgeeks.org/c/" ><img src="./icons/c.png" alt="c" width="50px"/></a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40px"/> </a>
     <a herf="https://github.com"><img src="./icons/github.png" alt="github" width="50px"/> </a>
     <a href="https://www.tableau.com/" target="_blank"> <img src="./icons/Tableau.png" alt="Tableau" width="70" height="40"/> </a>
 </p>
