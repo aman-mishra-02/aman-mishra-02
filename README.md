@@ -7,8 +7,8 @@
          I’m pursuing a Bachelor’s from Sardar Vallabhbhai National Institute of Technology.
 <h5>
       <hr>   
-<a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=1ed760">
-</a>
+<!-- <a herf="https://komarev.com/ghpvc/?username=aman-mishra-02&color=f5cac3"><img src="https://komarev.com/ghpvc/?username=aman-mishra-02&color=1ed760">
+</a> -->
 
 <a href="https://github.com/aman-mishra-02?tab=followers"><img src="https://img.shields.io/github/followers/aman-mishra-02?label=Followers&style=social" alt="GitHub Badge"></a>
 
@@ -41,7 +41,7 @@
 </div>
 </br>
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=compact&theme=blue-green&langs_count=6" width="45%" align="center" >         
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-mishra-02&layout=donut&theme=blue-green&langs_count=6" width="45%" align="center" >         
 </div>
 <br>
 
