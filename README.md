@@ -99,7 +99,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40px" height='40px'/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="70px"/> </a>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/aman-mishra-02/aman-mishra-02/blob/main/icons/expressjs.pngg" alt="express" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="./icons/expressjs.png" alt="express" width="40" height="40"/> </a>
     <a href="https://www.npmjs.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Npm-logo_favicon.svg" alt="npm" width="40" height="40"/> </a>
 </p>
 
